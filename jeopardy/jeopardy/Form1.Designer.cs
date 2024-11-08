@@ -39,7 +39,7 @@
             // 
             gameboard.BackColor = Color.Beige;
             gameboard.Location = new Point(50, 50);
-            gameboard.Name = "gameboard";
+            gameboard.Name = "gameboard"; 
             gameboard.Size = new Size(700, 700);
             gameboard.TabIndex = 0;
             // 
@@ -95,7 +95,6 @@
         private Panel gameboard;
         private Panel qboard;
         private Panel betboard;
-        private Label answertext;
         private Button closeBtn;
         private Label questionLabel;
     }

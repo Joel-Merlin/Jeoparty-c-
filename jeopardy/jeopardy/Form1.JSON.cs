@@ -10,18 +10,18 @@ namespace jeopardy
     {
         string filePath = "sheet.json";
         
-        use streamreader
-
-        private string getQuestion(int row, int pts)
-        {
-            using (JsonDocument doc = JsonDocument.Parse(jsonString)) {
-                string question = 
-            }
-        }
-
-        private string getAnswer(int row, int pts)
-        {
-
-        }
+     //   use streamreader
+     //
+     //   private string getQuestion(int row, int pts)
+     //   {
+     //       using (JsonDocument doc = JsonDocument.Parse(jsonString)) {
+     //           string question = 
+     //       }
+     //   }
+     //
+     //   private string getAnswer(int row, int pts)
+     //   {
+     //
+     //   }
     }
 }

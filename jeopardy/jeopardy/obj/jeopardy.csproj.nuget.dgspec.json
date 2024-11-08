@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\jeopardy\\jeopardy\\jeopardy\\jeopardy.csproj": {}
+    "C:\\projects\\joparty\\Jeoparty-c-\\jeopardy\\jeopardy\\jeopardy.csproj": {}
   },
   "projects": {
-    "C:\\projects\\jeopardy\\jeopardy\\jeopardy\\jeopardy.csproj": {
+    "C:\\projects\\joparty\\Jeoparty-c-\\jeopardy\\jeopardy\\jeopardy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\jeopardy\\jeopardy\\jeopardy\\jeopardy.csproj",
+        "projectUniqueName": "C:\\projects\\joparty\\Jeoparty-c-\\jeopardy\\jeopardy\\jeopardy.csproj",
         "projectName": "jeopardy",
-        "projectPath": "C:\\projects\\jeopardy\\jeopardy\\jeopardy\\jeopardy.csproj",
+        "projectPath": "C:\\projects\\joparty\\Jeoparty-c-\\jeopardy\\jeopardy\\jeopardy.csproj",
         "packagesPath": "C:\\Users\\jml\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\jeopardy\\jeopardy\\jeopardy\\obj\\",
+        "outputPath": "C:\\projects\\joparty\\Jeoparty-c-\\jeopardy\\jeopardy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

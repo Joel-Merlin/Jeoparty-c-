@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\joparty\\Jeoparty-c-\\jeopardy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\projects\\joparty\\jeoparty-c-\\jeopardy\\jeopardy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\projects\\joparty\\jeoparty-c-\\jeopardy\\jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\projects\\joparty\\jeoparty-c-\\jeopardy\\jeopardy\\form1.json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\projects\\joparty\\jeoparty-c-\\jeopardy\\jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 324,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\projects\\joparty\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs",
+              "RelativeDocumentMoniker": "jeopardy\\Form1.cs",
+              "ToolTip": "C:\\projects\\joparty\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs [Design]",
+              "RelativeToolTip": "jeopardy\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:08:52.812Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\projects\\joparty\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs",
+              "RelativeDocumentMoniker": "jeopardy\\Form1.cs",
+              "ToolTip": "C:\\projects\\joparty\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs",
+              "RelativeToolTip": "jeopardy\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:09:33.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 324,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\projects\\joparty\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "jeopardy\\Form1.Designer.cs",
+              "ToolTip": "C:\\projects\\joparty\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.Designer.cs",
+              "RelativeToolTip": "jeopardy\\Form1.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:09:14.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.JSON.cs",
+              "DocumentMoniker": "C:\\projects\\joparty\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.JSON.cs",
+              "RelativeDocumentMoniker": "jeopardy\\Form1.JSON.cs",
+              "ToolTip": "C:\\projects\\joparty\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.JSON.cs",
+              "RelativeToolTip": "jeopardy\\Form1.JSON.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:09:00.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
